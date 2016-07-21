@@ -17,5 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="shortcuts_new_contact">New contact</string>
+    <string name="contacts_groups_label">Groups</string>
+    <string name="group_editor_title">Edit group</string>
 
 </resources>
