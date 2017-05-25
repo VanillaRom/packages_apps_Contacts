@@ -17,5 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="shortcuts_new_contact">Új névjegy</string>
+    <string name="contacts_groups_label">Csoportok</string>
+    <string name="group_editor_title">Csoport szerkesztése</string>
 
 </resources>
